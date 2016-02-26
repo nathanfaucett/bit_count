@@ -1,5 +1,5 @@
 {
-  "name": "bitCount",
+  "name": "bit_count",
   "version": "0.0.1",
   "description": "bit count for the browser and node.js",
   "repository": {
