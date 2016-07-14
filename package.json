@@ -1,10 +1,10 @@
 {
   "name": "@nathanfaucett/bit_count",
-  "version": "0.0.1",
-  "description": "counts bits for a number",
+  "version": "0.0.2",
+  "description": "counts bits in a number",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanfaucett/rel.git"
+    "url": "https://github.com/nathanfaucett/bit_count.git"
   },
   "main": "src/index.js",
   "scripts": {
